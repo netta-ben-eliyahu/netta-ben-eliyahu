@@ -11,21 +11,27 @@ Currently diving deeper into cloud security and AI technologies.
 Java • Python • C
 
 **Backend**
+
 Spring Boot • FastAPI • REST API
 
 **Frontend**
+
 Angular • HTML • CSS
 
 **Cloud & DevOps**
+
 AWS • Kubernetes • OpenShift • Docker • Jenkins • Kafka
 
 **Databases**
+
 Couchbase (NoSQL)
 
 **Tools**
+
 Git • Postman • Pytest
 
 **AI Development Tools**
+
 GitHub Copilot • Claude • OpenAI API • Claude Cowork 
 
 ---
