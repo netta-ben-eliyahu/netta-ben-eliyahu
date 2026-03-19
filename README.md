@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋 , I'm Netta Ben Eliyahu
 
-<!--
-**netta-ben-eliyahu/netta-ben-eliyahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Software Engineer with a background in Java backend & cloud-native microservices.  
+Currently diving deeper into cloud security and AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Programming Languages**
+
+Java • Python • C
+
+**Backend**
+Spring Boot • FastAPI • REST API
+
+**Frontend**
+Angular • HTML • CSS
+
+**Cloud & DevOps**
+AWS • Kubernetes • OpenShift • Docker • Jenkins • Kafka
+
+**Databases**
+Couchbase (NoSQL)
+
+**Tools**
+Git • Postman • Pytest
+
+**AI Development Tools**
+GitHub Copilot • Claude • OpenAI API • Claude Cowork 
+
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=netta-ben-eliyahu)](https://git.io/streak-stats)
+
+
+
